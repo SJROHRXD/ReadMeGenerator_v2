@@ -1,0 +1,27 @@
+{
+  "name": "updated-personal-readme-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SJROHRXD/ReadMeGenerator_v2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SJROHRXD/ReadMeGenerator_v2/issues"
+  },
+  "homepage": "https://github.com/SJROHRXD/ReadMeGenerator_v2#readme",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
